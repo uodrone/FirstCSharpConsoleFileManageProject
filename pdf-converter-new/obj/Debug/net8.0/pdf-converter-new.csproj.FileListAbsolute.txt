@@ -1,0 +1,14 @@
+C:\Users\Dronesaurum\source\repos\pdf-converter-new\pdf-converter-new\bin\Debug\net8.0\pdf-converter-new.exe
+C:\Users\Dronesaurum\source\repos\pdf-converter-new\pdf-converter-new\bin\Debug\net8.0\pdf-converter-new.deps.json
+C:\Users\Dronesaurum\source\repos\pdf-converter-new\pdf-converter-new\bin\Debug\net8.0\pdf-converter-new.runtimeconfig.json
+C:\Users\Dronesaurum\source\repos\pdf-converter-new\pdf-converter-new\bin\Debug\net8.0\pdf-converter-new.dll
+C:\Users\Dronesaurum\source\repos\pdf-converter-new\pdf-converter-new\bin\Debug\net8.0\pdf-converter-new.pdb
+C:\Users\Dronesaurum\source\repos\pdf-converter-new\pdf-converter-new\obj\Debug\net8.0\pdf-converter-new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dronesaurum\source\repos\pdf-converter-new\pdf-converter-new\obj\Debug\net8.0\pdf-converter-new.AssemblyInfoInputs.cache
+C:\Users\Dronesaurum\source\repos\pdf-converter-new\pdf-converter-new\obj\Debug\net8.0\pdf-converter-new.AssemblyInfo.cs
+C:\Users\Dronesaurum\source\repos\pdf-converter-new\pdf-converter-new\obj\Debug\net8.0\pdf-converter-new.csproj.CoreCompileInputs.cache
+C:\Users\Dronesaurum\source\repos\pdf-converter-new\pdf-converter-new\obj\Debug\net8.0\pdf-converter-new.dll
+C:\Users\Dronesaurum\source\repos\pdf-converter-new\pdf-converter-new\obj\Debug\net8.0\refint\pdf-converter-new.dll
+C:\Users\Dronesaurum\source\repos\pdf-converter-new\pdf-converter-new\obj\Debug\net8.0\pdf-converter-new.pdb
+C:\Users\Dronesaurum\source\repos\pdf-converter-new\pdf-converter-new\obj\Debug\net8.0\pdf-converter-new.genruntimeconfig.cache
+C:\Users\Dronesaurum\source\repos\pdf-converter-new\pdf-converter-new\obj\Debug\net8.0\ref\pdf-converter-new.dll

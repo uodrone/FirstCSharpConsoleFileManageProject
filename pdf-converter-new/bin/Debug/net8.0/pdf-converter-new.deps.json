@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "pdf-converter-new/1.0.0": {
+        "runtime": {
+          "pdf-converter-new.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pdf-converter-new/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

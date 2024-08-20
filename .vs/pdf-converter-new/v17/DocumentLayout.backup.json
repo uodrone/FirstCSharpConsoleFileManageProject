@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Dronesaurum\\source\\repos\\pdf-converter-new\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{094DF9E0-4499-4B2C-A85F-05F2C4051D5A}|pdf-converter-new\\pdf-converter-new.csproj|c:\\users\\dronesaurum\\source\\repos\\pdf-converter-new\\pdf-converter-new\\filemethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{094DF9E0-4499-4B2C-A85F-05F2C4051D5A}|pdf-converter-new\\pdf-converter-new.csproj|solutionrelative:pdf-converter-new\\filemethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094DF9E0-4499-4B2C-A85F-05F2C4051D5A}|pdf-converter-new\\pdf-converter-new.csproj|c:\\users\\dronesaurum\\source\\repos\\pdf-converter-new\\pdf-converter-new\\pdf-converter-new.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{094DF9E0-4499-4B2C-A85F-05F2C4051D5A}|pdf-converter-new\\pdf-converter-new.csproj|solutionrelative:pdf-converter-new\\pdf-converter-new.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{094DF9E0-4499-4B2C-A85F-05F2C4051D5A}|pdf-converter-new\\pdf-converter-new.csproj|c:\\users\\dronesaurum\\source\\repos\\pdf-converter-new\\pdf-converter-new\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{094DF9E0-4499-4B2C-A85F-05F2C4051D5A}|pdf-converter-new\\pdf-converter-new.csproj|solutionrelative:pdf-converter-new\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094DF9E0-4499-4B2C-A85F-05F2C4051D5A}|pdf-converter-new\\pdf-converter-new.csproj|c:\\users\\dronesaurum\\source\\repos\\pdf-converter-new\\pdf-converter-new\\pdfgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{094DF9E0-4499-4B2C-A85F-05F2C4051D5A}|pdf-converter-new\\pdf-converter-new.csproj|solutionrelative:pdf-converter-new\\pdfgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pdf-converter-new",
+              "DocumentMoniker": "C:\\Users\\Dronesaurum\\source\\repos\\PDF-converter-new\\pdf-converter-new\\pdf-converter-new.csproj",
+              "RelativeDocumentMoniker": "pdf-converter-new\\pdf-converter-new.csproj",
+              "ToolTip": "C:\\Users\\Dronesaurum\\source\\repos\\PDF-converter-new\\pdf-converter-new\\pdf-converter-new.csproj",
+              "RelativeToolTip": "pdf-converter-new\\pdf-converter-new.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-20T11:15:03.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FileMethods.cs",
+              "DocumentMoniker": "C:\\Users\\Dronesaurum\\source\\repos\\pdf-converter-new\\pdf-converter-new\\FileMethods.cs",
+              "RelativeDocumentMoniker": "pdf-converter-new\\FileMethods.cs",
+              "ToolTip": "C:\\Users\\Dronesaurum\\source\\repos\\pdf-converter-new\\pdf-converter-new\\FileMethods.cs",
+              "RelativeToolTip": "pdf-converter-new\\FileMethods.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:21:37.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Dronesaurum\\source\\repos\\pdf-converter-new\\pdf-converter-new\\Program.cs",
               "RelativeDocumentMoniker": "pdf-converter-new\\Program.cs",
               "ToolTip": "C:\\Users\\Dronesaurum\\source\\repos\\pdf-converter-new\\pdf-converter-new\\Program.cs",
               "RelativeToolTip": "pdf-converter-new\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-20T02:38:26.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PDFgenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Dronesaurum\\source\\repos\\pdf-converter-new\\pdf-converter-new\\PDFgenerator.cs",
+              "RelativeDocumentMoniker": "pdf-converter-new\\PDFgenerator.cs",
+              "ToolTip": "C:\\Users\\Dronesaurum\\source\\repos\\pdf-converter-new\\pdf-converter-new\\PDFgenerator.cs",
+              "RelativeToolTip": "pdf-converter-new\\PDFgenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:01:43.539Z",
               "EditorCaption": ""
             }
           ]

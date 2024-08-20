@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pdf-converter-new")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85b726eabe34d640b3d36f11db5685df87456059")]
 [assembly: System.Reflection.AssemblyProductAttribute("pdf-converter-new")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pdf-converter-new")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

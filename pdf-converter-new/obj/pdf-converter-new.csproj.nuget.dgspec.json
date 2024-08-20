@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dronesaurum\\source\\repos\\pdf-converter-new\\pdf-converter-new\\pdf-converter-new.csproj": {}
+    "C:\\Users\\Dronesaurum\\source\\repos\\PDF-converter-new\\pdf-converter-new\\pdf-converter-new.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dronesaurum\\source\\repos\\pdf-converter-new\\pdf-converter-new\\pdf-converter-new.csproj": {
+    "C:\\Users\\Dronesaurum\\source\\repos\\PDF-converter-new\\pdf-converter-new\\pdf-converter-new.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dronesaurum\\source\\repos\\pdf-converter-new\\pdf-converter-new\\pdf-converter-new.csproj",
+        "projectUniqueName": "C:\\Users\\Dronesaurum\\source\\repos\\PDF-converter-new\\pdf-converter-new\\pdf-converter-new.csproj",
         "projectName": "pdf-converter-new",
-        "projectPath": "C:\\Users\\Dronesaurum\\source\\repos\\pdf-converter-new\\pdf-converter-new\\pdf-converter-new.csproj",
+        "projectPath": "C:\\Users\\Dronesaurum\\source\\repos\\PDF-converter-new\\pdf-converter-new\\pdf-converter-new.csproj",
         "packagesPath": "C:\\Users\\Dronesaurum\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dronesaurum\\source\\repos\\pdf-converter-new\\pdf-converter-new\\obj\\",
+        "outputPath": "C:\\Users\\Dronesaurum\\source\\repos\\PDF-converter-new\\pdf-converter-new\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,32 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "itext": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "itext.pdfhtml": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "itext7": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "itext7.bouncy-castle-adapter": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "itext7.pdfhtml": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "itextsharp.xmlworker": {
+              "target": "Package",
+              "version": "[5.5.13.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
